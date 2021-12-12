@@ -1,0 +1,6 @@
+body{
+    color: cornflowerblue;/*color del texto*/
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;/*color de fondo de pantalla*/
+}
