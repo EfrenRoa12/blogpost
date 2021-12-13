@@ -2,5 +2,5 @@ body{
     color: cornflowerblue;/*color del texto*/
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    background-color: blueviolet;/*color de fondo de pantalla*/
+    background-color: rgb(104, 43, 161);/*color de fondo de pantalla */
 }
